@@ -1,0 +1,22 @@
+# General
+.DS_Store
+.env
+.venv
+/venv
+/env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
