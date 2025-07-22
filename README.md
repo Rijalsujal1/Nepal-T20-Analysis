@@ -26,7 +26,13 @@ This analysis covers several key areas to provide a holistic view of Nepal's T20
 
 ## Data Source
 
-The primary data source for this analysis is the `Nepal_T20I.csv` file, located in the `C:\Users\lsuja\OneDrive\Documents\CricketAnalysis\` directory. This CSV file contains ball-by-ball data for Nepal's T20I matches.
+The dataset used in this analysis is publicly available on Kaggle:
+
+**🔗 [Nepal T20I Ball-by-Ball Dataset (2014–Present)](https://www.kaggle.com/datasets/samarpanrai/nepal-t20i-2014-present-ball-by-ball-data/data)**  
+This dataset contains granular ball-by-ball data for Nepal's international T20 matches.
+
+> Local file path (for reference):  
+`C:\Users\lsuja\OneDrive\Documents\CricketAnalysis\Nepal_T20I.csv`
 
 ## Installation
 
@@ -34,7 +40,7 @@ To set up the project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your_repository_url>
+    git clone https://github.com/Rijalsujal1/Nepal-T20-Analysis
     ```
     Replace `<your_repository_url>` with the actual URL of your GitHub repository.
 2.  **Navigate to the project directory:**
@@ -116,4 +122,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Contact
 
 For any questions or feedback, please contact Sujal Rijal at [Lsuja502@gmail.com].
-You can also find me on [LinkedIn].
+You can also find me on [linkedin.com/in/sujalrijal].
