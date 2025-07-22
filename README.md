@@ -42,7 +42,7 @@ To set up the project locally, follow these steps:
     ```bash
     git clone https://github.com/Rijalsujal1/Nepal-T20-Analysis
     ```
-    Replace `<your_repository_url>` with the actual URL of your GitHub repository.
+    
 2.  **Navigate to the project directory:**
     ```bash
     cd CricketAnalysis
@@ -122,4 +122,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Contact
 
 For any questions or feedback, please contact Sujal Rijal at [Lsuja502@gmail.com].
-You can also find me on [linkedin.com/in/sujalrijal].
+You can also find me on [LinkedIn](https://www.linkedin.com/in/sujalrijal/).
