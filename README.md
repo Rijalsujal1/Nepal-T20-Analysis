@@ -117,7 +117,7 @@ Contributions are welcome! If you have suggestions for improvements, new feature
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details (if you plan to add one).
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Contact
 
